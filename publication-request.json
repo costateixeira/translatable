@@ -1,13 +1,13 @@
 {
-    "package-id" : "medigree.fhir.r5demo",
-    "title" : "R5 Demo", 
+    "package-id" : "jct.fhir.translatable",
+    "title" : "Translatable IG", 
     "category" : "something",
     "introduction" : "Just a demo",
     "version" : "1.0.0",
     "desc" : "First stable release",
     "mode": "milestone",    
-    "path" : "http://medigree.net/fhir/r5demo/1.0.0",
-    "ci-build": "https//build.fhir.org/ig/medigree/r5demo",    
+    "path" : "http://jct.net/fhir/translatable/1.0.0",
+    "ci-build": "https//build.fhir.org/ig/jct/r5demo",    
     "first": true,
     "status" : "release",
     "sequence" : "Releases"
